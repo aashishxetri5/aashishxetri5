@@ -24,7 +24,11 @@
 
 <br />
 
-<h1 align="center">Connect with me:</h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aashishxetri5&theme=highcontrast&show_icons=true" />
+
+<br />
+  
+<h1 align="center">Want to have a talk? Hop in to my dm</h1>
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/aashish-katwal-076076175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
