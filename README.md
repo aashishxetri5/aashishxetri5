@@ -37,6 +37,10 @@
 </p>
 
 <br/>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishxetri5&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Aashish Katwal Most Used Languages" />
+</p>
+<br/>
 
 <h1 align="center"> ❤ Views and Followers</h1>
 
