@@ -21,15 +21,34 @@
   <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
   <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
-
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aashishxetri5&theme=highcontrast&show_icons=true" /> </p>
-
+<!-- readme stat -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishxetri5&theme=highcontrast&show_icons=true" />
+</p>
 <br />
-  
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aashishxetri5&theme=radical" alt="Trophies" />
+</p>
+
+<br/>
+<!--  Most used languages Stat  -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishxetri5&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Aashish Katwal Most Used Languages" />
+</p>
+<br/>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishxetri5&theme=dark" alt="Github Streak of Aashish Katwal" />
+</p>
+<br/>
+
+<!-- Social Links -->
 <h1 align="center">Want to have a talk? Hop in to my dm</h1>
-
 <p align="center">
   <a href = "https://www.linkedin.com/in/aashish-katwal-076076175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/Aashish_Xetri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -38,17 +57,6 @@
 
 <br/>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishxetri5&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Aashish Katwal Most Used Languages" />
-</p>
-  
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishxetri5&theme=dark" alt="Github Streak of Aashish Katwal" />
-</p>
-
-<br/>
 
 <h1 align="center"> ❤ Views and Followers</h1>
 
