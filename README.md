@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) **
 
-- 🌱 I’m currently learning Java, JS, React.
+- 🌱 I’m currently learning Spring Framework and API Development.
 
 - 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)**
 
