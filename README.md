@@ -2,11 +2,13 @@
 
 - 👋 Hi, I’m Aashish Katwal
 
-- 👀 I’m interested in Web and Mobile Application Development and Data Science
+- 👀 I’m interested in Web Development and Data Science.
 
 - 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) **
 
-- 🌱 I’m currently learning Spring Framework and API Development.
+- 🌱 I’m currently learning Spring and Spring boot.
+
+- 🌱 I’m currently learning API Development.
 
 - 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)**
 
@@ -14,6 +16,7 @@
 <p align="center">
   <a href="https://java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
   <a href="https://www.oracle.com/java/technologies/jspt.html"> <img src="https://img.icons8.com/color/48/000000/jsp.png"/> </a>
+  <a href="https://python.org" > <img src="https://img.icons8.com/?size=50&id=13441&format=png"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
