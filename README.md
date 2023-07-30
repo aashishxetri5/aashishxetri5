@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development and Data Science.
 
-- 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) **
+<!-- - 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) ** -->
 
 - 🌱 I’m currently learning Spring and Spring boot.
 
@@ -53,7 +53,7 @@
 <br/>
 
 <!-- Social Links -->
-<h1 align="center">Want to have a talk? Hop in to my dm</h1>
+<h1 align="center">Want to have a talk? Hop into my DM</h1>
 <p align="center">
   <a href = "https://www.linkedin.com/in/aashish-katwal-076076175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/Aashish_Xetri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
