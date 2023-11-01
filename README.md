@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Aashish Katwal
 
-- 👀 I’m interested in Web Development and Data Science.
+- 👀 I’m interested in Web Development and Software.
 
 <!-- - 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) ** -->
 
