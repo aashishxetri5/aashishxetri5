@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Spring and Spring boot.
 
-- 🌱 I’m currently learning API Development.
+- 🌱 I’m currently learning API Development and Design Patterns.
 
 - 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)**
 
