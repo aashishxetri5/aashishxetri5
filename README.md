@@ -4,13 +4,13 @@
 
 - 👀 I’m interested in Web Development and Software.
 
-<!-- - 🔭 I’m currently working on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya) ** -->
+- 🔭 I’m currently working on **[Lekhapadi](https://github.com/aashishxetri5/Lekhapadi)** and **[Yellowstone](https://yellowstonerealty.com.au)**
 
 - 🌱 I’m currently learning Spring and Spring boot.
 
 - 🌱 I’m currently learning API Development and Design Patterns.
 
-- 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)**
+<!-- - 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)** -->
 
 <h1 align="center"> Languages and Tools I know and use: </h1>
 <p align="center">
