@@ -2,13 +2,17 @@
 
 - 👋 Hi, I’m Aashish Katwal
 
-- 👀 I’m interested in Web Development and Software.
+- 👀 I’m interested in Building softwares that makes an impact.
 
-- 🔭 I’m currently working on **[Lekhapadi](https://github.com/aashishxetri5/Lekhapadi)** and **[Yellowstone](https://yellowstonerealty.com.au)**
+- 🌱 specialize in **Backend Technologies**
 
-- 🌱 I’m currently learning Spring and Spring boot.
+- 🔭 I’m currently working on **[Kavach](https://github.com/aashishxetri5/Kavach)** and **[Yellowstone](https://yellowstonerealty.com.au)**
 
-- 🌱 I’m currently learning API Development and Design Patterns.
+- 🌱 I’m currently learning Spring boot.
+
+- 🌱 I’m currently learning Design Patterns.
+  
+- 💬 Ask me about **Java**, **Spring**, **Databases**, **Web**.
 
 <!-- - 💞️ I’m looking to collaborate on **[Pustakalaya](https://github.com/aashishxetri5/Pustakalaya)** and/or **[Image Extractor](https://github.com/aashishxetri5/ImageExtractor)** -->
 
