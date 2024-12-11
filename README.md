@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **[Kavach](https://github.com/aashishxetri5/Kavach)** and **[Yellowstone](https://yellowstonerealty.com.au)**
 
-- 🌱 I’m currently learning Spring boot.
-
-- 🌱 I’m currently learning Design Patterns.
+- 🌱 I’m currently learning Spring boot, Design Patterns.
   
 - 💬 Ask me about **Java**, **Spring**, **Databases**, **Web**.
 
